@@ -19,5 +19,3 @@ env/
 Thumbs.db
 
 # Large/raw datasets
-data/raw_data/*.csv
-data/cleaned_data/*.csv
